@@ -7,8 +7,13 @@
 
 .App-logo {
   pointer-events: none;
+  width: 100%;
+  height: auto;
 }
 
+.imgBox {
+  min-width: 200px;
+}
 
 .App-header {
   background-color: #192833;

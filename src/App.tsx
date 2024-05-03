@@ -14,7 +14,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <div className='imgBox'>
+          <img src={logo} className="App-logo" alt="logo" />
+        </div>
         <h1 className='h1'>
           Coming soon 👀
         </h1>
