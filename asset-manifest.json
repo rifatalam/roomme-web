@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/roomme-web/static/css/main.5545bb6f.css",
-    "main.js": "/roomme-web/static/js/main.7b84ca10.js",
+    "main.css": "/roomme-web/static/css/main.52b42d5c.css",
+    "main.js": "/roomme-web/static/js/main.e94055d7.js",
     "static/js/453.8b2c57d7.chunk.js": "/roomme-web/static/js/453.8b2c57d7.chunk.js",
     "static/media/ComfortaaBold.ttf": "/roomme-web/static/media/ComfortaaBold.b54f8469bcbf22829055.ttf",
     "static/media/ComfortaaSemiBold.ttf": "/roomme-web/static/media/ComfortaaSemiBold.8559cb51fb0a05408f64.ttf",
@@ -10,12 +10,12 @@
     "static/media/ComfortaaLight.ttf": "/roomme-web/static/media/ComfortaaLight.aa1ca0954920c776511c.ttf",
     "static/media/logo.png": "/roomme-web/static/media/logo.8ddd502b3d425d57b358.png",
     "index.html": "/roomme-web/index.html",
-    "main.5545bb6f.css.map": "/roomme-web/static/css/main.5545bb6f.css.map",
-    "main.7b84ca10.js.map": "/roomme-web/static/js/main.7b84ca10.js.map",
+    "main.52b42d5c.css.map": "/roomme-web/static/css/main.52b42d5c.css.map",
+    "main.e94055d7.js.map": "/roomme-web/static/js/main.e94055d7.js.map",
     "453.8b2c57d7.chunk.js.map": "/roomme-web/static/js/453.8b2c57d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5545bb6f.css",
-    "static/js/main.7b84ca10.js"
+    "static/css/main.52b42d5c.css",
+    "static/js/main.e94055d7.js"
   ]
 }
